@@ -7,14 +7,15 @@ module.exports = {
   theme: {
     extend: {
       maxWidth: {
-        container: '1604px',
+        container: '1320px',
       }
     },
     colors:{
       'primary':'#F46B5B',
       'old-gray':'#A7A7A7',
       'black':'#383838',
-      'gray':'#D0D0D2',
+      'gray':'#d0d0d261',
+      'white':'#FAFAFA',
    },
 
   },

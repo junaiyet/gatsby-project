@@ -1,12 +1,15 @@
 import * as React from "react"
 import Header from "../components/Header"
-import { FaBeer } from 'react-icons/fa';
+import Hero from "../components/Hero"
+import CategoryMenu from "../components/CategoryMenu"
 
 const IndexPage = () => {
   return (
   
     <>
       <Header/>
+      <Hero/>
+      <CategoryMenu/>
     </>
   )
 }

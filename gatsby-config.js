@@ -9,7 +9,7 @@ module.exports = {
     'gatsby-plugin-postcss',
     // ...
     {
-      resolve: `gatsby-omni-font-loader`,
+      resolve: `gatsby`,
       options: {
         enableListener: true,
         preconnect: [`https://fonts.googleapis.com`, `https://fonts.gstatic.com`],
