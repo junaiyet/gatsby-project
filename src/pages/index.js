@@ -2,6 +2,9 @@ import * as React from "react"
 import Header from "../components/Header"
 import Hero from "../components/Hero"
 import CategoryMenu from "../components/CategoryMenu"
+import NewArrival from "../components/NewArrival"
+import FeaturedProducts from "../components/FeaturedProducts"
+import OurCollections from "../components/OurCollections"
 
 const IndexPage = () => {
   return (
@@ -10,6 +13,9 @@ const IndexPage = () => {
       <Header/>
       <Hero/>
       <CategoryMenu/>
+      <NewArrival/>
+      <FeaturedProducts/>
+      <OurCollections/>
     </>
   )
 }

@@ -10,7 +10,7 @@ export default  function Header() {
   return (
     <div className="">
 
-    <div className=" border border-solid border-[#A7A7A7]">
+    <div className="  border border-solid border-t-0 border-[#A7A7A7]">
     <div className='container mx-auto '>
             <div className="flex justify-between py-4 ">
                 <div className="flex gap-x-9	">

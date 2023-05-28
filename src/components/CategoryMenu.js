@@ -16,27 +16,27 @@ export default function CategoryMenu() {
                 <span className='text-lg inline-block'>Computer & Laptop</span>
             </div>
             <div className="item flex items-center px-4 py-1 rounded border border-solid border-[#A7A7A7]">
-                <img src={Laptop} alt="" className='mr-2' />
+                <img src={Smartphone} alt="" className='mr-2' />
                 <span className='text-lg inline-block'>Mobile & Tablet</span>
             </div>
             <div className="item flex items-center px-4 py-1 rounded border border-solid border-[#A7A7A7]">
-                <img src={Laptop} alt="" className='mr-2' />
+                <img src={Camera} alt="" className='mr-2' />
                 <span className='text-lg inline-block'>Camera</span>
             </div>
             <div className="item flex items-center px-4 py-1 rounded border border-solid border-[#A7A7A7]">
-                <img src={Laptop} alt="" className='mr-2' />
+                <img src={TvAndRemote} alt="" className='mr-2' />
                 <span className='text-lg inline-block'>TV & Smart Box</span>
             </div>
             <div className="item flex items-center px-4 py-1 rounded border border-solid border-[#A7A7A7]">
-                <img src={Laptop} alt="" className='mr-2' />
+                <img src={HomeAppliance} alt="" className='mr-2' />
                 <span className='text-lg inline-block'>Home Appliance</span>
             </div>
             <div className="item flex items-center px-4 py-1 rounded border border-solid border-[#A7A7A7]">
-                <img src={Laptop} alt="" className='mr-2' />
+                <img src={Accessories} alt="" className='mr-2' />
                 <span className='text-lg inline-block'>Accessories</span>
             </div>
             <div className="item flex items-center px-4 py-1 rounded border border-solid border-[#A7A7A7]">
-                <img src={Laptop} alt="" className='mr-2' />
+                <img src={OtherCategories} alt="" className='mr-2' />
                 <span className='text-lg inline-block'>Other Categories</span>
             </div>
          
