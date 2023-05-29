@@ -12,6 +12,7 @@ module.exports = {
     },
     colors:{
       'primary':'#F46B5B',
+      'range-primary':'#F46B5B',
       'old-gray':'#A7A7A7',
       'black':'#383838',
       'gray':'#d0d0d261',
